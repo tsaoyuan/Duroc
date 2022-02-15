@@ -1,0 +1,8 @@
+# key骨架設定檔
+#
+pusher_app_id: "your_pusher_app_id"
+pusher_key: your_pusher_key
+pusher_secret: your_pusher_secret
+
+
+
